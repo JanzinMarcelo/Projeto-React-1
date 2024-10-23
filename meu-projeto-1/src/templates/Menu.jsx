@@ -8,11 +8,11 @@ export default function Menu (props) {
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
               <NavDropdown title="Cadastros" id="basic-nav-dropdown">
-                <NavDropdown.Item href="#action/3.1">Clientes</NavDropdown.Item>
+                <NavDropdown.Item href="#action/3.1">Produtos</NavDropdown.Item>
                 <NavDropdown.Divider />
-                <NavDropdown.Item href="#action/3.2">Produtos</NavDropdown.Item>
+                <NavDropdown.Item href="#action/3.2">Em criação</NavDropdown.Item>
                 <NavDropdown.Divider />
-                <NavDropdown.Item href="#action/3.3">Fornecedores</NavDropdown.Item>
+                <NavDropdown.Item href="#action/3.3">Em criação</NavDropdown.Item>
                 <NavDropdown.Divider />
               </NavDropdown>
             </Nav>
